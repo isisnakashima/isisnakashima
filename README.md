@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://github.com/isisnakashima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isisnakashima&layout=compact&langs_count=7&theme=dracula"/>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isisnakashima&layout=compact)](https://github.com/isisnakashima/github-readme-stats)
 </div>
   <div align="center">
 </div>
